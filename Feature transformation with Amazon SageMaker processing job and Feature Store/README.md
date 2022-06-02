@@ -1,6 +1,6 @@
 # Feature transformation with Amazon SageMaker processing job and Feature Store
 
-Notes:
+Notes: This course focuses on the AWS data science product stack. This is week 1 exercise.
 
 1. Configure the SageMaker Feature Store
 
