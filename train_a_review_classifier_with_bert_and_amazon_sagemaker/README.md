@@ -1,6 +1,6 @@
 # Train a review classifier with BERT and Amazon SageMaker
 
-Notes:
+Notes: This course focuses on the AWS data science product stack. This is week 2 exercise.
 
 1. Configure dataset
 
