@@ -8,3 +8,4 @@ This course teaches how to automate a natural language processing task by buildi
 
 * Finally, the pipeline will evaluate the model’s accuracy and only deploy the model if the accuracy exceeds a given threshold.
 
+<img src="https://github.com/ntoscano01/certificates/blob/main/Analyze%20Datasets%20and%20Train%20ML%20Models%20using%20AutoML.png" width="400" height="300">
